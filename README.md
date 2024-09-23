@@ -1,4 +1,4 @@
-# ⬅️ Slider Pokémon ➡️
+# ⬅️ Slider Landing Page ➡️
 
 ✅Finalizado mais um projeto do MapaDev Week, no curso DevQuest! 
 
@@ -12,9 +12,10 @@
 </div>
 <br>
 
-🔛https://devfelipe0993.github.io/Slider-Pokemon/
+🔛https://devfelipe0993.github.io/Projeto-Landing/
 
 
 
 
-![slider-pokemon-print](https://github.com/user-attachments/assets/91ffc77b-2df9-4d2b-bb3d-bdefba26a1bf)
+
+![landing1](https://github.com/user-attachments/assets/19ae62b9-fef4-44c0-baf4-6782a55aeb72)
