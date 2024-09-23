@@ -120,6 +120,11 @@ body {
     right: 20px;
 }
 
+.opacidade {
+    opacity: 0.6;
+    cursor: default;
+  }
+
 /* Quem somos */
 .quem-somos {
     background-color: #2941ab;

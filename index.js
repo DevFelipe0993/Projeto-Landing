@@ -48,6 +48,4 @@ setaVoltar.addEventListener('click', function() {
 
        /* 4 - Mostrar a imagem anterior, pegar todas as imagens, descobrir qual é a anterior, e colocar a classe '.mostrar' nela. */
        imagensPainel[imagemAtual].classList.add('mostrar')   
-    
-
 })
